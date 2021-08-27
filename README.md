@@ -8,7 +8,7 @@ This post is adapted from [Creating 3D Models for QGIS With ODM by Tim Sutton](h
 * [ImageMagick](https://imagemagick.org/script/download.php#windows)
 * [Blender](https://www.blender.org/download/)
 * [QGIS](https://qgis.org/en/site/forusers/download.html)
-* [OpenDroneMap WebODM](https://www.opendronemap.org/webodm/) or  [OpenDroneMap ODM  command line toolkit](https://hub.docker.com/r/opendronemap/odm)
+* [OpenDroneMap WebODM](https://www.opendronemap.org/webodm/download/) or  [OpenDroneMap ODM  command line toolkit](https://hub.docker.com/r/opendronemap/odm)
 
 ### Configuring ffmpeg
 
@@ -26,7 +26,7 @@ WebODM is a web interface and API to OpenDroneMap. To manually install WebODM, g
 
 ### Configuring OpenDroneMap ODM (command line)
 
-ODM is the OpenDroneMap's open source command line toolkit. This toolkit requires that you have [Docker](https://www.docker.com/) installed. To use this toolkit see the [ODM Quickstart](https://github.com/OpenDroneMap/ODM).
+ODM is the OpenDroneMap's open source command line toolkit. This toolkit requires that you have [Docker](https://www.docker.com/products) installed. To use this toolkit see the [ODM Quickstart](https://github.com/OpenDroneMap/ODM#quickstart).
 
 ## Extract the video frames
 
