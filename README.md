@@ -52,6 +52,7 @@ Open the Windows Command Prompt and change the working directory using the comma
 ffmpeg.exe -i FlowerPotVideo.mp4 -vf fps=1 -f image2 image-%07d.png
 ```
 ![FlowerPotSmall.gif](FlowerPot/FlowerPotSmall.gif)
+*Video taken at Two Rivers Mall, Nairobi, Kenya*. 
 
 For interest,  you can generate the above GIF from the extracted frames using this ImageMagick command:
 
