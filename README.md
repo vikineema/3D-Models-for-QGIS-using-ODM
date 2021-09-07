@@ -65,7 +65,7 @@ im-convert.exe FlowerPot.gif -scale 25% FlowerPotSmall.gif
 
 ### Way one: using Web ODM
 
-The exported ```.png``` images can now be imported into WebODM. Use the steps below to create a project and then load the images in WebODM:
+The exported ```.png``` images can now be imported into WebODM. Use the steps below to create a project and then load the images into WebODM:
 
 1. Create a new project in WebODM using the Add project button. Name the project and add an optional project description.
 
